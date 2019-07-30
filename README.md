@@ -14,7 +14,14 @@ https://www.elastic.co/
 # https://www.mongodb.com/ là CSDL ở dạng No SQL 
 # https://toidicodedao.com/2015/09/24/nosql-co-gi-hay-ho-tong-quan-ve-nosql-phan-1/ No SQL là gì ?
 # https://quantrimang.com/mot-so-lenh-linux-co-ban-60400 Các câu lệnh linux 
+
+# https://eloquentjavascript.net/ Sách học js
+# https://www.pdfdrive.com/php-cookbook-3rd-editionpdf-d33434322.html PHP Cookbook 3rd
+# Sách bảo mật http://security.toidicodedao.com/?utm_source=blog_sidebar
+
 # https://packagist.org Trang chứa các thư viện PHP cho phép cài đặt nhanh chóng để phát triển tính năng 
+
+
 
 
 
