@@ -12,6 +12,9 @@
 # Elasticsearch là CSDL có tốc độ truy xuất để tìm kiếm rất cao và số lượng bản ghi rất lớn đến hàng triệu bản ghi . Ứng dụng web thường kết hợp với elasticsearch để tính năng tìm kiếm được nhanh chóng và chính xác ) 
 https://www.elastic.co/
 # https://www.mongodb.com/ là CSDL ở dạng No SQL 
+# https://toidicodedao.com/2015/09/24/nosql-co-gi-hay-ho-tong-quan-ve-nosql-phan-1/ No SQL là gì ?
+
+
 
 
 
