@@ -22,6 +22,8 @@ https://www.elastic.co/
 # https://packagist.org Trang chứa các thư viện PHP cho phép cài đặt nhanh chóng để phát triển tính năng 
 # https://freetuts.net/hoc-php/hoc-lap-trinh-php-can-ban
 # https://sass-lang.com/guide Ngôn ngữ Sass
+# Viết javascript theo phong cách module https://techtalk.vn/huong-dan-javascript-modules.html
+# Học typescript và viết javascript theo hướng đối tượng https://www.typescriptlang.org/
 
 
 
