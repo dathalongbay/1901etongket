@@ -13,6 +13,8 @@
 https://www.elastic.co/
 # https://www.mongodb.com/ là CSDL ở dạng No SQL 
 # https://toidicodedao.com/2015/09/24/nosql-co-gi-hay-ho-tong-quan-ve-nosql-phan-1/ No SQL là gì ?
+# https://quantrimang.com/mot-so-lenh-linux-co-ban-60400 Các câu lệnh linux 
+
 
 
 
