@@ -10,5 +10,7 @@
 # Redis là 1 kiểu CSDL ở dạng No SQL ( lưu trữ dữ liệu trên RAM của máy chủ ) nên tốc độ đọc và ghi của nó rất cao 
 # trang chủ tài liệu HSDL của redis https://redis.io/documentation 
 # Elasticsearch là CSDL có tốc độ truy xuất để tìm kiếm rất cao và số lượng bản ghi rất lớn đến hàng triệu bản ghi . Ứng dụng web thường kết hợp với elasticsearch để tính năng tìm kiếm được nhanh chóng và chính xác ) 
+https://www.elastic.co/
+
 
 
