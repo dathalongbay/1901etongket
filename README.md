@@ -25,6 +25,12 @@ https://www.elastic.co/
 # Viết javascript theo phong cách module https://techtalk.vn/huong-dan-javascript-modules.html
 # Học typescript và viết javascript theo hướng đối tượng https://www.typescriptlang.org/
 
+# https://ehkoo.com/bai-viet/can-ban-css-grid-phan-1 CSS grid
+# https://evondev.com/css-flexbox-phan-1/ CSS Flexbox
+# Học Vue JS https://toidicode.com/hoc-vuejs-co-ban
+# Trang documentation của vue js https://vuejs.org/
+
+
 
 
 
