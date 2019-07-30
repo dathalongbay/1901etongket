@@ -37,6 +37,7 @@ https://www.elastic.co/
 # https://cakephp.org/
  # https://fuelphp.com/
  # https://lumen.laravel.com/
+ # Mô hình HMVC https://sethphat.com/sp-741/dung-mo-hinh-hmvc-cho-laravel-5
  
 
 
