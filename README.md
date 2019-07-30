@@ -8,5 +8,6 @@
 # Sqlite3 là 1 kiểu CSDL tương tự mysql ( thường sử dụng cho app để lưu trữ trên data trên mobile )
 # PostgreSQL là 1 kiểu CSDL nhưng có nhiều tính năng tốt hơn mysql 
 # Redis là 1 kiểu CSDL ở dạng No SQL ( lưu trữ dữ liệu trên RAM của máy chủ ) nên tốc độ đọc và ghi của nó rất cao 
+# trang chủ tài liệu HSDL của redis https://redis.io/documentation 
 
 
