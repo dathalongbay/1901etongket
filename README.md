@@ -5,5 +5,6 @@
 # https://www.virtualbox.org/wiki/Downloads Tạo máy ảo trên window ( cài đặt hệ điều hành bất kỳ lên virtuabox ubuntu , centos ( linux ) , window trên virtualbox )
 # https://www.putty.org/ ( phần mềm cho phép tương tác với máy chủ server linux ) 
 # Nginx tác dụng giống như apache là máy chủ web để chạy PHP 
+# Sqlite3 là 1 kiểu CSDL tương tự mysql ( thường sử dụng cho app để lưu trữ trên data trên mobile )
 
 
