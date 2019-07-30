@@ -30,6 +30,14 @@ https://www.elastic.co/
 # Học Vue JS https://toidicode.com/hoc-vuejs-co-ban
 # Trang documentation của vue js https://vuejs.org/
 # https://octobercms.com/
+# Các framework phổ biến trong php 
+# https://www.codeigniter.com/
+# https://www.yiiframework.com/
+# laravel 
+# https://cakephp.org/
+ # https://fuelphp.com/
+ # https://lumen.laravel.com/
+ 
 
 
 
