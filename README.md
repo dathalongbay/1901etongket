@@ -6,5 +6,6 @@
 # https://www.putty.org/ ( phần mềm cho phép tương tác với máy chủ server linux ) 
 # Nginx tác dụng giống như apache là máy chủ web để chạy PHP 
 # Sqlite3 là 1 kiểu CSDL tương tự mysql ( thường sử dụng cho app để lưu trữ trên data trên mobile )
+# PostgreSQL là 1 kiểu CSDL nhưng có nhiều tính năng tốt hơn mysql 
 
 
